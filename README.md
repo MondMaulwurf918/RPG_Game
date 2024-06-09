@@ -4,3 +4,4 @@ hehe
 [twitch](https://www.twitch.com)
 [Gmail](Https://www.gmail.com)
 [chatgpt](https://chatgpt.com/auth/login)
+[crunchyroll](https://www.crunchyroll.com/welcome/login)

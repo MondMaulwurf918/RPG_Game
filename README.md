@@ -5,4 +5,4 @@ hehe
 [Gmail](Https://www.gmail.com)
 [chatgpt](https://chatgpt.com/auth/login)
 [crunchyroll](https://www.crunchyroll.com/welcome/login)
-[AI](https://myai.ai)
+[AI](https://perplexity.ai)

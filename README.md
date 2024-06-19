@@ -9,4 +9,5 @@ hehe
 [BlackFriday-GPTs-Prompts](https://github.com/friuns2/blackfriday-gpts-prompts)
 [blackHatHacker](https://gptcall.net/chat?data=%7B%22contact%22%3A%7B%22id%22%3A%22d2zcEM35irmBqVMEIJinA%22%2C%22flow%22%3Atrue%7D%7D#chatID=%222024-06-11T21%3A58%3A19.719Z%22)
 [DAN_V13](https://gptcall.net/chat?data=%7B%22contact%22%3A%7B%22id%22%3A%22fPBcjf5lLoJIPH1__lcET%22%2C%22flow%22%3Atrue%7D%7D#chatID=%222024-06-12T09%3A03%3A42.742Z%22)
+[Zorro](https://zorro.to)
 []

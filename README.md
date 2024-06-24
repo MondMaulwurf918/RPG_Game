@@ -13,6 +13,6 @@ hehe
 [Garticphone](https://garticphone.com/en/?c=0160a6b963)
 [Hianime](https://hianime.to)
 [CodeAcademy](https://www.codecademy.com)
-[Google](https://www.google.com)
+[duckduckgo](https://duckduckgo.com/)
 []
 []
